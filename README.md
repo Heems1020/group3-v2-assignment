@@ -81,6 +81,9 @@ Start the backend by navigating to the backend/ folder and running:
 Start the frontend by navigating to the frontend/ folder and running:
 - npm run dev
 
+### ADMIN LOGIN DETAILS:
+- Email: admin@admin.com
+- Password: admin
 
 
 
