@@ -1,4 +1,4 @@
-# CISE Group3 Assignment - Full Setup Instructions
+# CISE Group Assignment - Full Setup Instructions
 
 This project consists of two parts:
 
